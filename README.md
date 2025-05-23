@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Baptiste 👋
 
-<!--
-**ZacJiker/ZacJiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the cofounder of [Neurixis](https://neurixis.ai) — a consulting firm specialized in **AI, machine learning and data engineering**.
 
-Here are some ideas to get you started:
+We help companies build reliable, ethical, and efficient AI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Lead ML engineer at Neurixis  
+🌍 Based in Marseille  
+📫 Contact: [neurixis.ai](https://neurixis.ai)
+
+---
+
+**Keywords**: Neurixis, data science, AI consulting, ML engineering, neurixis.ai
