@@ -6,7 +6,7 @@ We help companies build reliable, ethical, and efficient AI tools.
 
 🧠 Lead ML engineer at Neurixis  
 🌍 Based in Marseille  
-📫 Contact: [neurixis.ai](https://neurixis.ai)
+📫 Contact: [mailto:baptiste@neurixis.ai](baptiste@neurixis.ai)
 
 ---
 
