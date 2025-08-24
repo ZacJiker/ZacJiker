@@ -20,7 +20,7 @@ Entrepreneur deeptech, ingénieur aéronautique & IA, passionné par l’allianc
 - ✈️ **Leeft** : Transport médical par drone en France !
 - 🛰️ **Atheris** : SaaS ERP pour opérateurs de drones complexes  
 - 🧠 **Neurixis** : Conseil en IA/Data + audit de maturité data/IA  
-- ⚙️ **CZ+** : Deeptech spin-off d'une techno CNRS/ISAE
+- ⚙️ **CZ+** : Deeptech spin-off d'une techno CNRS/ISAE *(bientôt en prod)*
 
 ---
 
@@ -33,8 +33,8 @@ Entrepreneur deeptech, ingénieur aéronautique & IA, passionné par l’allianc
 ## 🌍 Liens utiles
 
 - 🌐 [neurixis.ai](https://neurixis.ai)  
-- 🌐 [leeft.net](https://leeft.net) *(bientôt en prod)*  
-- 💼 [LinkedIn – Baptiste Sauvecanne](https://www.linkedin.com/in/baptistesauvecanne)  
+- 🌐 [leeft.net](https://leeft.net)
+- 💼 [LinkedIn – Baptiste Sauvecanne](https://www.linkedin.com/in/baptiste-sauvecanne)  
 
 ---
 
