@@ -17,11 +17,10 @@ Entrepreneur deeptech, ingénieur aéronautique & IA, passionné par l’allianc
 
 ## 🚀 Projets phares
 
-- ✈️ **Leeft** : Transport médical par drone (Aero2, AeroMini)  
+- ✈️ **Leeft** : Transport médical par drone en France !
 - 🛰️ **Atheris** : SaaS ERP pour opérateurs de drones complexes  
 - 🧠 **Neurixis** : Conseil en IA/Data + audit de maturité data/IA  
-- ⚙️ **CZ+** : Deeptech spin-off valorisant une techno CNRS/ISAE (Locafleet)  
-- 🌊 **ALS-SIM** : Simulation ultra-réaliste d’appontage drone VTOL sur radeau flottant  
+- ⚙️ **CZ+** : Deeptech spin-off d'une techno CNRS/ISAE
 
 ---
 
