@@ -1,46 +1,46 @@
 # Baptiste Sauvecanne
 
-**Cofondateur & Président de [Leeft](https://leeft.net), [Neurixis](https://neurixis.ai) et CZ+**  
-Entrepreneur deeptech, ingénieur aéronautique & IA, passionné par l’alliance entre technologie et santé.
+**Co-Founder & CEO of [Leeft](https://leeft.net) & [Examias](https://examias-ai.com)**  
+Aerospace & AI engineer building deep-tech systems at the intersection of autonomy, healthcare, and safety-critical operations.
 
 ---
 
-## 🛠️ Compétences principales
+## 🛠️ Core Skills
 
-- **Langages & Frameworks** : Python, TypeScript, NestJS, Golang, Rust, React, Tailwind, Streamlit  
-- **IA & Data** : Deep Learning, Computer Vision, Multimodal Models, MLOps (W&B, TensorFlow, PyTorch)  
-- **Cloud & DevOps** : Kubernetes, Kong, Scaleway, Azure, GitLab (auto-hébergé), CI/CD  
-- **Sécurité & Compliance** : ISO 27001 readiness, ANSSI MIRE/IGI 13100, PKI/UEFI, Encryption-at-rest  
-- **Aéronautique & Drones** : BVLOS ops, Mission planning, Automatic landing systems  
-
----
-
-## 🚀 Projets phares
-
-- ✈️ **Leeft** : Transport médical par drone en France !
-- 🛰️ **Atheris** : SaaS ERP pour opérateurs de drones complexes  
-- 🧠 **Neurixis** : Conseil en IA/Data + audit de maturité data/IA  
-- ⚙️ **CZ+** : Deeptech spin-off d'une techno CNRS/ISAE *(bientôt en prod)*
+- **Languages & Frameworks** — Python, TypeScript, NestJS, Go, Rust, React, Tailwind, Streamlit  
+- **AI & Data** — Deep Learning, Computer Vision, Multimodal Models, MLOps (W&B, PyTorch, TensorFlow)  
+- **Cloud & DevOps** — Kubernetes, Kong API Gateway, Scaleway, Azure, GitLab (self-hosted), CI/CD pipelines  
+- **Security & Compliance** — ISO 27001 readiness, ANSSI MIRE/IGI-13100 practices, PKI/UEFI Secure Boot, encryption-at-rest  
+- **Aerospace & UAV** — BVLOS operations, mission planning, autonomy research, automatic landing systems  
 
 ---
 
-## ✨ Bio / Tagline
+## 🚀 Key Projects
 
-> *"L’innovation n’a de sens que si elle sauve des vies ou améliore la société."*
+- ✈️ **Leeft** — Medical drone logistics across France  
+- 🛰️ **Atheris** — SaaS/On-Prem system for drone operations & compliance  
+- 🧠 **Examias** — Autonomous systems for defense & critical infrastructure  
+- ⚙️ **CZ+** — Deep-tech spin-off built on CNRS/ISAE technology *(coming soon)*  
 
 ---
 
-## 🌍 Liens utiles
+## ✨ Tagline
 
-- 🌐 [neurixis.ai](https://neurixis.ai)  
-- 🌐 [leeft.net](https://leeft.net)
-- 💼 [LinkedIn – Baptiste Sauvecanne](https://www.linkedin.com/in/baptiste-sauvecanne)  
+> *“Innovation matters only when it protects or improves human life.”*
+
+---
+
+## 🌍 Links
+
+- 🌐 https://examias-ai.com  
+- 🌐 https://leeft.net  
+- 💼 https://www.linkedin.com/in/baptiste-sauvecanne  
 
 ---
 
 ## 🎯 Fun Facts
 
-- 👨‍✈️ Pilote de planeur depuis l’adolescence  
-- 🫀 Passionné de médecine & d’aéronautique depuis toujours  
-- 🔐 Fan de design system, cybersécurité & architecture logicielle  
-- 🚵 Objectif perso : gravir le **col Agnel** au printemps 2026
+- 👨‍✈️ Glider pilot since my teenage years  
+- 🫀 Long-time passion for both medicine and aerospace  
+- 🔐 Enthusiast of design systems, cybersecurity, and software architecture  
+- 🚵 Personal goal: climb **Col Agnel** in spring 2026  
